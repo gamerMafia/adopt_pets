@@ -21,24 +21,37 @@
 ### 2. Details Page
 
 [X] 1. It must display the pet’s `name`, `age`, `price`, `image` and an *`Adopt Me`* button.
+
 [X] 2. Clicking the pet’s image can open an interactive viewer — where zooming in and out must be possible. (`+ Extra score`)
+
 [X] 3. On clicking the Adopt Me button, display a popup that says — “`You’ve now adopted <pet_name>`”
+
 [X] 4. Optionally, display the popup with a confetti (`+ Extra score`).
+
 [X] 5. The adopted pet must be greyed out and cannot adopt again.
+
     [X] 1. Mark pet as “`Already Adopted`” in the home page list.
+    
 [X] 6. The state of the pet adoption must be maintained across app launches.
+
 
 ### 3. History Page
 
 [X] 1. Display a list of adopted pets in chronological order.
+
    [X] 1. It can be a plain simple list or a timeline.
+   
 
 ## General Requirements
 
 [X] 1. The app must implement the [hero animation](https://docs.flutter.dev/development/ui/animations/hero-animations) for the List → Details screen navigation.
+
 [X] 2. The app must have an attractive & interactive UI.
+
 [X] 3. The app must have dark theme support.
+
 [X] 4. You’re allowed to pick a design inspiration from [Dribbble](https://dribbble.com/), [UpLabs](https://www.uplabs.com/), or any other similar site.
+
 [X] 5. Submission without a good UI and zero animations will not be considered further.
 
 
