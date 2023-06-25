@@ -33,6 +33,7 @@
 [X] 4. Optionally, display the popup with a confetti (`+ Extra score`).
 
 [X] 5. The adopted pet must be greyed out and cannot adopt again.
+
     [X] 1. Mark pet as “`Already Adopted`” in the home page list.
     
 [X] 6. The state of the pet adoption must be maintained across app launches.
