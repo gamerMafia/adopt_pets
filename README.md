@@ -6,13 +6,21 @@
 2. Details Page
 3. History Page
 
+
+
 ### 1. Home Page
 
 [X] 1. It must display a list of pet animals and a search bar.
+
 [X] 2. Recommended more than `10` pets.
+
 [ ] 3. Optionally, the list can support pagination (`+ Extra score`)
+
 [X] 4. The pets are searched by their names.
+
 [X] 5. On choosing a pet, navigate to the details page.
+
+
 
 ### 2. Details Page
 
@@ -31,12 +39,16 @@
 [X] 6. The state of the pet adoption must be maintained across app launches.
 
 
+
+
 ### 3. History Page
 
 [X] 1. Display a list of adopted pets in chronological order.
 
    [X] 1. It can be a plain simple list or a timeline.
    
+
+
 
 ## General Requirements
 
@@ -49,6 +61,8 @@
 [X] 4. You’re allowed to pick a design inspiration from [Dribbble](https://dribbble.com/), [UpLabs](https://www.uplabs.com/), or any other similar site.
 
 [X] 5. Submission without a good UI and zero animations will not be considered further.
+
+
 
 
 # SCREEN SHOT
