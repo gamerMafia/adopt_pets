@@ -9,9 +9,13 @@
 ### 1. Home Page
 
 [X] 1. It must display a list of pet animals and a search bar.
+
 [X] 2. Recommended more than `10` pets.
+
 [ ] 3. Optionally, the list can support pagination (`+ Extra score`)
+
 [X] 4. The pets are searched by their names.
+
 [X] 5. On choosing a pet, navigate to the details page.
 
 ### 2. Details Page
