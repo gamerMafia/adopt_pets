@@ -38,7 +38,7 @@
 [X] 5. Submission without a good UI and zero animations will not be considered further.
 
 
-##### SCREEN SHOT
+# SCREEN SHOT
 
 ### HOME PAGE
 
